@@ -13,7 +13,7 @@
   padding: 0px;
   width: 100%;
   height: 30%;
-  background: url("./img/ribbon.svg") no-repeat left bottom scroll;
+  background: url("../img/ribbon.svg") no-repeat left bottom scroll;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   background-size: contain;
