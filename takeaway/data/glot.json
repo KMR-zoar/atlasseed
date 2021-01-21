@@ -1,0 +1,54 @@
+{
+    "title": {
+        "ja": "みんなでテイクアウトMAP <埼玉版>",
+        "en": "Takeout MAP with everyone <Saitama Ver>"
+    },
+    "owner": {
+        "ja": "みんなでテイクアウトMAP <開発版>について",
+        "en": "about Takeout MAP with everyone"
+    },
+    "openstreetmap": {
+        "ja": "データ元のOpenStreetMapについて",
+        "en": "About the data source OpenStreetMap"
+    },
+    "data_edit": {
+        "ja": "店舗編集",
+        "en": "EDIT"
+    },
+    "id_edit_manual": {
+        "ja": "(PC用)店舗登録/修正マニュアル",
+        "en": "(for PC)Store edit manual"
+    },
+    "mapcontrib_edit_manual": {
+        "ja": "(スマホ用)簡易編集ツールマニュアル",
+        "en": "(for smartphone)simple editing tool manual"
+    },
+    "mapcontrib_edit": {
+        "ja": "(スマホ用)簡易編集ツール",
+        "en": "(for smartphone)simple editing tool"
+    },
+    "outdoor_seating_yes": {
+        "ja": "(テラスあり)",
+        "en": "(outdoor seats)"
+    },
+    "outdoor_seating_no": {
+        "ja": "(テラスなし)",
+        "en": "(no outdoor seats)"
+    },
+    "takeaway_yes": {
+        "ja": "あり",
+        "en": "no"
+    },
+    "takeaway_no": {
+        "ja": "なし",
+        "en": "no"
+    },
+    "modal_title": {
+        "ja": "詳細情報(更新:",
+        "en": "Detailed"
+    },
+    "modal_close": {
+        "ja": "閉じる",
+        "en": "OK"
+    }
+}

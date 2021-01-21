@@ -1,0 +1,116 @@
+<head>
+   <meta charset="utf-8">
+   <meta content="Zoar:Web">
+   <meta content="website">
+   <meta content="http://zoar.space/">
+   <title>Atlas Seed</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <link href="/css/bootstrap.min.css" rel="stylesheet">
+   <link href="/css/main.css" rel="stylesheet">
+   <link href="/img/icon.png" rel="shortcut icon">
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css" />
+</head>
+<body>
+<header>
+   <div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+         <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-main">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+             </button>
+	     <a href="/" class="navbar-brand">Atlas Seed</a>
+         </div>
+
+         <div class="navbar-collapse collapse" id="navbar-main">
+            <ul class="nav navbar-nav navbar-right">
+               <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                     Blogs
+                     <span class="caret"></span>
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                     <li><a href="http://k-side.hatenablog.jp/">Main blog</a></li>
+                     <li class="divider"></li>
+                     <li><a href="http://zoar.hatenablog.jp/">Misc blog</a></li>
+                  </ul>
+               </li>
+            </ul>
+         </div>
+      </div>
+   </div>
+</header>
+
+   <div id="top">
+   <div id="map">
+   </div>
+</div>
+
+<div id="head" class="text-center">
+   <h1 class="text-info">The 6th layer</h1>
+</div>
+
+<div class="container">
+<div class="row">
+   <div class="col-lg-4">
+      <h2>SNS</h2>
+      <div class="bs-component">
+         <ul class="nav nav-pills nav-stacked">
+            <li><a href="https://twitter.com/k_zoar">Twitter メイン</a></li>
+            <li><a href="https://twitter.com/ex_zoar">Twitter サブ</a></li>
+         </ul>
+      </div>
+   </div>
+   <div class="col-lg-4">
+      <h2>Blog</h2>
+      <div class="bs-component">
+         <ul class="nav nav-pills nav-stacked">
+            <li><a href="http://k-side.hatenablog.jp/">はてなメインブログ</a></li>
+            <li><a href="http://zoar.hatenablog.jp/">はてな雑記ブログ</a></li>
+         </ul>
+      </div>
+   </div>
+   <div class="col-lg-4">
+      <h2>Contribute</h2>
+      <div class="bs-component">
+         <ul class="nav nav-pills nav-stacked">
+            <li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">OpenStreetMap<span class="caret"></span></a>
+               <ul class="dropdown-menu">
+                  <li><a href="http://www.openstreetmap.org/user/k_zoar">OSM プロフィール</a></li>
+                  <li><a href="http://www.weeklyosm.eu/ja/">週刊 OSM</a></li>
+                  <li><a href="http://2017.stateofthemap.org/">State of the Map 2017</a></li>
+                  <li><a href="http://hdyc.neis-one.org/?k_zoar">HDYC</a></li>
+            </ul>
+            </li>
+            <li><a href="https://github.com/KMR-zoar">Github</a></li>
+            <li><a href="https://bitbucket.org/zoar/">BitBucket</a></li>
+         </ul>
+      </div>
+   </div>
+</div>
+</div>
+
+<footer class="small">
+   <div class="container">
+      <div class="row">
+         <div class="col-xs-12 text-center copyright">
+            &copy;2015-2020 Zoar All rights reserved.
+         </div>
+      </div>
+   </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  $('.bs-component [data-toggle="popover"]').popover();
+  $('.bs-component [data-toggle="tooltip"]').tooltip();
+</script>
+<script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js"></script>
+<script src="/js/map.js"></script>
+</body>
+</html>

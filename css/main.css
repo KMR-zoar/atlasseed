@@ -1,0 +1,40 @@
+#top {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 30%;
+  position: relative;
+  background-color: #000000;
+}
+
+#top:after {
+  content: '';
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 30%;
+  background: url("/img/ribbon.svg") no-repeat left bottom scroll;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  background-size: contain;
+  -o-background-size: contain;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  z-index: 999;
+}
+
+#map {
+   width: 100%;
+   height: 100%;
+}
+
+#map .leaflet-bottom.leaflet-right {
+   /*display: none !important;*/
+    -moz-transform: rotate(-4deg);
+    -webkit-transform: rotate(-4deg);
+    -o-transform: rotate(-4deg);
+    -ms-transform: rotate(-4deg);
+    transform: rotate(-4deg);
+    width: 100%;
+}

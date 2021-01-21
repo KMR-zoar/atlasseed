@@ -1,0 +1,6970 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u693f\u4ed8\u8fd1-\u57fa\u76e4\u5730\u56f3\u60c5\u5831\u306b\u3088\u308a\u5efa\u7269\uff65\u9053\u8def\u3092\u30c8\u30ec\u30fc\u30b9; \u8fb2\u5730\u30dd\u30ea\u30b4\u30f3\u306e\u5f62\u72b6\u5909\u66f4 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95083440
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.778314,
+              36.02328
+            ],
+            [
+              139.78116,
+              36.02328
+            ],
+            [
+              139.78116,
+              36.025509
+            ],
+            [
+              139.778314,
+              36.025509
+            ],
+            [
+              139.778314,
+              36.02328
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9ad8\u69fb\u5e02\u306e\u82a5\u5ddd\u5468\u8fba\u3092\u8ffd\u52a0\u30fb\u5468\u8fba #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95090203
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.596161,
+              34.858892
+            ],
+            [
+              135.602043,
+              34.858892
+            ],
+            [
+              135.602043,
+              34.867513
+            ],
+            [
+              135.596161,
+              34.867513
+            ],
+            [
+              135.596161,
+              34.858892
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u68ee\u6797\u4fee\u6b63\uff08\u539a\u5cb8\u753a\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95099828
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.940262,
+              43.087479
+            ],
+            [
+              145.0033,
+              43.087479
+            ],
+            [
+              145.0033,
+              43.12236
+            ],
+            [
+              144.940262,
+              43.12236
+            ],
+            [
+              144.940262,
+              43.087479
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Added buildings. #MappingAdventureJapan",
+        "user": "okadatsuneo",
+        "changeset": 95121918
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.325188,
+              34.748047
+            ],
+            [
+              135.328281,
+              34.748047
+            ],
+            [
+              135.328281,
+              34.749674
+            ],
+            [
+              135.325188,
+              34.749674
+            ],
+            [
+              135.325188,
+              34.748047
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5165\u8c37\u4ed8\u8fd1\u306e\u5efa\u7269\u3092\u30c8\u30ec\u30fc\u30b9 #MappingAdventureJapan",
+        "user": "maripogoda",
+        "changeset": 95122978
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.786264,
+              35.719561
+            ],
+            [
+              139.791002,
+              35.719561
+            ],
+            [
+              139.791002,
+              35.721115
+            ],
+            [
+              139.786264,
+              35.721115
+            ],
+            [
+              139.786264,
+              35.719561
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u8a00\u554f\u901a\u308a\u30fb\u96f7\u9580\u901a\u308a\u306e\u6a2a\u65ad\u6b69\u9053\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "maripogoda",
+        "changeset": 95123129
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.791613,
+              35.709737
+            ],
+            [
+              139.802049,
+              35.709737
+            ],
+            [
+              139.802049,
+              35.720772
+            ],
+            [
+              139.791613,
+              35.720772
+            ],
+            [
+              139.791613,
+              35.709737
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u693f\u4ed8\u8fd1-\u57fa\u76e4\u5730\u56f3\u60c5\u5831\u306b\u3088\u308a\u5efa\u7269\uff65\u9053\u8def\u3092\u30c8\u30ec\u30fc\u30b9 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95123793
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.773716,
+              36.023629
+            ],
+            [
+              139.778467,
+              36.023629
+            ],
+            [
+              139.778467,
+              36.02685
+            ],
+            [
+              139.773716,
+              36.02685
+            ],
+            [
+              139.773716,
+              36.023629
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u693f\u4ed8\u8fd1-\u57fa\u76e4\u5730\u56f3\u60c5\u5831\u306b\u3088\u308a\u5efa\u7269\u3092\u30c8\u30ec\u30fc\u30b9\uff65\u5f62\u72b6\u5909\u66f4; \u8fb2\u5730\u30dd\u30ea\u30b4\u30f3\u306e\u5f62\u72b6\u5909\u66f4; \u6c34\u8def\u306e\u5f62\u72b6\u5909\u66f4; \u8caf\u6c34\u6c60\u306e\u30c8\u30ec\u30fc\u30b9 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95127094
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.767442,
+              36.011876
+            ],
+            [
+              139.779395,
+              36.011876
+            ],
+            [
+              139.779395,
+              36.024102
+            ],
+            [
+              139.767442,
+              36.024102
+            ],
+            [
+              139.767442,
+              36.011876
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u5317\u84ee\u6cbc\u4ed8\u8fd1-\u57fa\u76e4\u5730\u56f3\u60c5\u5831\u306b\u3088\u308a\u5efa\u7269\u3092\u30c8\u30ec\u30fc\u30b9 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95127871
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.776436,
+              36.016571
+            ],
+            [
+              139.778222,
+              36.016571
+            ],
+            [
+              139.778222,
+              36.019084
+            ],
+            [
+              139.776436,
+              36.019084
+            ],
+            [
+              139.776436,
+              36.016571
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u5317\u84ee\u6cbc\u4ed8\u8fd1-\u57fa\u76e4\u5730\u56f3\u60c5\u5831\u306b\u3088\u308a\u5efa\u7269\u3092\u30c8\u30ec\u30fc\u30b9 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95129314
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.770771,
+              36.007343
+            ],
+            [
+              139.779904,
+              36.007343
+            ],
+            [
+              139.779904,
+              36.016062
+            ],
+            [
+              139.770771,
+              36.016062
+            ],
+            [
+              139.770771,
+              36.007343
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fb\u8fb2\u5730\u30fbPOI\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95150610
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.569593,
+              35.298094
+            ],
+            [
+              138.584542,
+              35.298094
+            ],
+            [
+              138.584542,
+              35.315206
+            ],
+            [
+              138.569593,
+              35.315206
+            ],
+            [
+              138.569593,
+              35.298094
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5efa\u7269\u3068\u99d0\u8eca\u5834\u3001\u9053\u8def\u3092\u30c8\u30ec\u30fc\u30b9(\u5ddd\u5d0e\u5e02\u9ad8\u6d25\u533a) #MappingAdventureJapan",
+        "user": "ffff23",
+        "changeset": 95158736
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.626395,
+              35.602895
+            ],
+            [
+              139.629558,
+              35.602895
+            ],
+            [
+              139.629558,
+              35.605802
+            ],
+            [
+              139.626395,
+              35.605802
+            ],
+            [
+              139.626395,
+              35.602895
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u5efa\u7269\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95159618
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.145922,
+              35.618388
+            ],
+            [
+              140.148239,
+              35.618388
+            ],
+            [
+              140.148239,
+              35.619367
+            ],
+            [
+              140.145922,
+              35.619367
+            ],
+            [
+              140.145922,
+              35.618388
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan \u6728\u62381\u4e01\u76ee\u4ed8\u8fd1\u306e\u5efa\u7269\u3092\u8ffd\u52a0\u3002",
+        "user": "taki3hira",
+        "changeset": 95160245
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.567264,
+              34.46978
+            ],
+            [
+              135.569518,
+              34.46978
+            ],
+            [
+              135.569518,
+              34.47161
+            ],
+            [
+              135.567264,
+              34.47161
+            ],
+            [
+              135.567264,
+              34.46978
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan \u6cb3\u5185\u9577\u91ce\u5e02\u6d88\u9632\u7f72\u5317\u51fa\u5f35\u6240\u6771\u5074\u4ed8\u8fd1\u306e\u5efa\u7269\u3092\u8ffd\u52a0\u3002",
+        "user": "taki3hira",
+        "changeset": 95160840
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.566786,
+              34.471087
+            ],
+            [
+              135.567529,
+              34.471087
+            ],
+            [
+              135.567529,
+              34.47172
+            ],
+            [
+              135.566786,
+              34.47172
+            ],
+            [
+              135.566786,
+              34.471087
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9ad8\u69fb\u5e02\u5317\u5074\u306e\u5efa\u7269\u30fb\u68ee\u6797\u3092\u8ffd\u52a0\u30fb\u4fee\u6b63 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95162573
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.541806,
+              34.842256
+            ],
+            [
+              135.551826,
+              34.842256
+            ],
+            [
+              135.551826,
+              34.848699
+            ],
+            [
+              135.541806,
+              34.848699
+            ],
+            [
+              135.541806,
+              34.842256
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6d25\u5c71\u5546\u696d\u306e\u968e\u6570\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95179242
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.003378,
+              35.070053
+            ],
+            [
+              134.004432,
+              35.070053
+            ],
+            [
+              134.004432,
+              35.070561
+            ],
+            [
+              134.003378,
+              35.070561
+            ],
+            [
+              134.003378,
+              35.070053
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4eac\u90fd\u6cb3\u539f\u753a\u4e94\u6761\u4ed8\u8fd1\u306e\u30d3\u30eb\u306e\u968e\u6570\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95188676
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.765587,
+              34.995192
+            ],
+            [
+              135.765858,
+              34.995192
+            ],
+            [
+              135.765858,
+              34.995535
+            ],
+            [
+              135.765587,
+              34.995535
+            ],
+            [
+              135.765587,
+              34.995192
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u5824\u6839\u4ed8\u8fd1-\u8abf\u67fb\u3057\u305f\u5efa\u7269\u968e\u6570\u3092\u30bf\u30b0\u4ed8\u3051 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95209643
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.746127,
+              36.015897
+            ],
+            [
+              139.751935,
+              36.015897
+            ],
+            [
+              139.751935,
+              36.020469
+            ],
+            [
+              139.746127,
+              36.020469
+            ],
+            [
+              139.746127,
+              36.015897
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fb\u8fb2\u5730\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95222140
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.179605,
+              34.777152
+            ],
+            [
+              138.212097,
+              34.777152
+            ],
+            [
+              138.212097,
+              34.789229
+            ],
+            [
+              138.179605,
+              34.789229
+            ],
+            [
+              138.179605,
+              34.777152
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u52a0\u897fSA\u4e0b\u306e\u5efa\u7269\u306e\u968e\u6570\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95227008
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.798888,
+              34.945825
+            ],
+            [
+              134.799585,
+              34.945825
+            ],
+            [
+              134.799585,
+              34.946171
+            ],
+            [
+              134.798888,
+              34.946171
+            ],
+            [
+              134.798888,
+              34.945825
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u52a0\u897fSA\u4e0a\u308a\u306e\u5efa\u7269\u306e\u968e\u6570\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95227047
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.801566,
+              34.948062
+            ],
+            [
+              134.802525,
+              34.948062
+            ],
+            [
+              134.802525,
+              34.94865
+            ],
+            [
+              134.801566,
+              34.94865
+            ],
+            [
+              134.801566,
+              34.948062
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5efa\u7269\u60c5\u5831\u306e\u8a73\u7d30\u5316 #MappingAdventureJapan",
+        "user": "ffff23",
+        "changeset": 95228000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.555529,
+              35.561161
+            ],
+            [
+              139.558719,
+              35.561161
+            ],
+            [
+              139.558719,
+              35.562581
+            ],
+            [
+              139.555529,
+              35.562581
+            ],
+            [
+              139.555529,
+              35.561161
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30d3\u30eb\u5efa\u7269\u306e\u968e\u6570\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 95233485
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.495854,
+              34.709505
+            ],
+            [
+              135.496727,
+              34.709505
+            ],
+            [
+              135.496727,
+              34.709795
+            ],
+            [
+              135.495854,
+              34.709795
+            ],
+            [
+              135.495854,
+              34.709505
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30d3\u30eb\u5efa\u7269\u306e\u968e\u6570\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 95233754
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.494843,
+              34.713863
+            ],
+            [
+              135.497641,
+              34.713863
+            ],
+            [
+              135.497641,
+              34.71572
+            ],
+            [
+              135.494843,
+              34.71572
+            ],
+            [
+              135.494843,
+              34.713863
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u73fe\u5730\u8abf\u67fb\u306b\u5efa\u7269\u306b\u968e\u6570\u60c5\u5831\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95234354
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.117021,
+              35.609627
+            ],
+            [
+              140.117457,
+              35.609627
+            ],
+            [
+              140.117457,
+              35.609998
+            ],
+            [
+              140.117021,
+              35.609998
+            ],
+            [
+              140.117021,
+              35.609627
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9ad8\u69fb\u5e02\u306e\u585a\u539f\u5468\u8fba\u3092\u8ffd\u52a0\u30fb\u4fee\u6b63\u3002\u5efa\u7269\u306e\u9ad8\u3055\u3092\u3044\u304f\u3064\u304b\u5165\u529b #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95236815
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.571934,
+              34.851382
+            ],
+            [
+              135.584026,
+              34.851382
+            ],
+            [
+              135.584026,
+              34.861068
+            ],
+            [
+              135.571934,
+              34.861068
+            ],
+            [
+              135.571934,
+              34.851382
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4e00\u5bae\u516c\u6c11\u9928\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95239295
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.997707,
+              35.100801
+            ],
+            [
+              133.998103,
+              35.100801
+            ],
+            [
+              133.998103,
+              35.100984
+            ],
+            [
+              133.997707,
+              35.100984
+            ],
+            [
+              133.997707,
+              35.100801
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6771\u4e00\u5bae\u306e\u99d0\u8eca\u5834\u3092\u88dc\u6b63\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95239661
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.997617,
+              35.101157
+            ],
+            [
+              133.997623,
+              35.101157
+            ],
+            [
+              133.997623,
+              35.101257
+            ],
+            [
+              133.997617,
+              35.101257
+            ],
+            [
+              133.997617,
+              35.101157
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6771\u4e00\u5bae\u306e\u99d0\u8eca\u5834\u3092\u88dc\u6b63\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95239706
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.998115,
+              35.10115
+            ],
+            [
+              133.998129,
+              35.10115
+            ],
+            [
+              133.998129,
+              35.101366
+            ],
+            [
+              133.998115,
+              35.101366
+            ],
+            [
+              133.998115,
+              35.10115
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u307e\u3061\u304d\u305f\u5927\u901a\u30d3\u30eb\u99d0\u8eca\u5834\uff08\u5317\u898b\u5e02\u5927\u901a\u897f\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95251580
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.893814,
+              43.80225
+            ],
+            [
+              143.896531,
+              43.80225
+            ],
+            [
+              143.896531,
+              43.804098
+            ],
+            [
+              143.893814,
+              43.804098
+            ],
+            [
+              143.893814,
+              43.80225
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4e0a\u5c3e\u5e02\u5411\u5c71\u4ed8\u8fd1-\u30b7\u30fc\u30e0\u30ec\u30b9\u30d5\u30a9\u30c8\u304b\u3089\u5e97\u8217\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95253762
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.565754,
+              35.951694
+            ],
+            [
+              139.58739,
+              35.951694
+            ],
+            [
+              139.58739,
+              35.961363
+            ],
+            [
+              139.565754,
+              35.961363
+            ],
+            [
+              139.565754,
+              35.951694
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4e0a\u5c3e\u5e02\u5411\u5c71\u4ed8\u8fd1-\u4e0d\u8db3\u3057\u305f\u30bf\u30b0\u306e\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95253799
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.580665,
+              35.957927
+            ],
+            [
+              139.580863,
+              35.957927
+            ],
+            [
+              139.580863,
+              35.958164
+            ],
+            [
+              139.580665,
+              35.958164
+            ],
+            [
+              139.580665,
+              35.957927
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Added parkings and buildings. Adjusted ways and buildings to GSImap. #MappingAdventureJapan",
+        "user": "okadatsuneo",
+        "changeset": 95254171
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.086215,
+              33.928078
+            ],
+            [
+              133.088497,
+              33.928078
+            ],
+            [
+              133.088497,
+              33.930853
+            ],
+            [
+              133.086215,
+              33.930853
+            ],
+            [
+              133.086215,
+              33.928078
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u99d0\u8eca\u5834\u306e\u8ffd\u52a0\u30fb\u4fee\u6b63 #MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 95254957
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.495212,
+              34.714235
+            ],
+            [
+              135.49616,
+              34.714235
+            ],
+            [
+              135.49616,
+              34.714378
+            ],
+            [
+              135.495212,
+              34.714378
+            ],
+            [
+              135.495212,
+              34.714235
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95259220
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.043385,
+              35.477897
+            ],
+            [
+              133.043936,
+              35.477897
+            ],
+            [
+              133.043936,
+              35.478465
+            ],
+            [
+              133.043385,
+              35.478465
+            ],
+            [
+              133.043385,
+              35.477897
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95259298
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.043465,
+              35.478196
+            ],
+            [
+              133.043924,
+              35.478196
+            ],
+            [
+              133.043924,
+              35.478447
+            ],
+            [
+              133.043465,
+              35.478447
+            ],
+            [
+              133.043465,
+              35.478196
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6771\u4e0a\u91ce \u5efa\u7269\u968e\u6570\u3092\u8a18\u5165 #MappingAdventureJapan",
+        "user": "maripogoda",
+        "changeset": 95259532
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.780994,
+              35.707984
+            ],
+            [
+              139.781472,
+              35.707984
+            ],
+            [
+              139.781472,
+              35.708281
+            ],
+            [
+              139.780994,
+              35.708281
+            ],
+            [
+              139.780994,
+              35.707984
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6771\u4e0a\u91ce \u99d0\u8eca\u5834\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "maripogoda",
+        "changeset": 95259584
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.780667,
+              35.707984
+            ],
+            [
+              139.781472,
+              35.707984
+            ],
+            [
+              139.781472,
+              35.708281
+            ],
+            [
+              139.780667,
+              35.708281
+            ],
+            [
+              139.780667,
+              35.707984
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6771\u4e00\u5bae\u306e\u30d5\u30a1\u30df\u30de\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95260666
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.00319,
+              35.101931
+            ],
+            [
+              134.003989,
+              35.101931
+            ],
+            [
+              134.003989,
+              35.102345
+            ],
+            [
+              134.00319,
+              35.102345
+            ],
+            [
+              134.00319,
+              35.101931
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6771\u4e00\u5bae\u306e\u30d5\u30a1\u30df\u30de\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95260804
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.003425,
+              35.101942
+            ],
+            [
+              134.00397,
+              35.101942
+            ],
+            [
+              134.00397,
+              35.102332
+            ],
+            [
+              134.003425,
+              35.102332
+            ],
+            [
+              134.003425,
+              35.101942
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6771\u4e00\u5bae\u306e\u3064\u308b\u3084\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95260932
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.004104,
+              35.101965
+            ],
+            [
+              134.004478,
+              35.101965
+            ],
+            [
+              134.004478,
+              35.102371
+            ],
+            [
+              134.004104,
+              35.102371
+            ],
+            [
+              134.004104,
+              35.101965
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5efa\u7269\u3068\u99d0\u8eca\u5834\u3001\u9053\u8def\u3092\u30c8\u30ec\u30fc\u30b9(\u5ddd\u5d0e\u5e02\u9ad8\u6d25\u533a) #MappingAdventureJapan",
+        "user": "ffff23",
+        "changeset": 95293745
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.622777,
+              35.604078
+            ],
+            [
+              139.62807,
+              35.604078
+            ],
+            [
+              139.62807,
+              35.607742
+            ],
+            [
+              139.622777,
+              35.607742
+            ],
+            [
+              139.622777,
+              35.604078
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fb\u8fb2\u5730\u30fbPOI\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95296074
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.585459,
+              35.302723
+            ],
+            [
+              138.601911,
+              35.302723
+            ],
+            [
+              138.601911,
+              35.313792
+            ],
+            [
+              138.585459,
+              35.313792
+            ],
+            [
+              138.585459,
+              35.302723
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9577\u5ca1\u4eac\u5e02\u306e\u7aef\u306b\u3042\u308b\u5efa\u7269\u30fb\u99d0\u8eca\u5834\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95298294
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.686058,
+              34.916204
+            ],
+            [
+              135.704378,
+              34.916204
+            ],
+            [
+              135.704378,
+              34.952449
+            ],
+            [
+              135.686058,
+              34.952449
+            ],
+            [
+              135.686058,
+              34.916204
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u99d0\u8eca\u5834\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95301588
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.167099,
+              35.618052
+            ],
+            [
+              140.167708,
+              35.618052
+            ],
+            [
+              140.167708,
+              35.618408
+            ],
+            [
+              140.167099,
+              35.618408
+            ],
+            [
+              140.167099,
+              35.618052
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95325117
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.045387,
+              35.482422
+            ],
+            [
+              133.045656,
+              35.482422
+            ],
+            [
+              133.045656,
+              35.482568
+            ],
+            [
+              133.045387,
+              35.482568
+            ],
+            [
+              133.045387,
+              35.482422
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95325166
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.045327,
+              35.482728
+            ],
+            [
+              133.045805,
+              35.482728
+            ],
+            [
+              133.045805,
+              35.483049
+            ],
+            [
+              133.045327,
+              35.483049
+            ],
+            [
+              133.045327,
+              35.482728
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95325225
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.043146,
+              35.476925
+            ],
+            [
+              133.043308,
+              35.476925
+            ],
+            [
+              133.043308,
+              35.477124
+            ],
+            [
+              133.043146,
+              35.477124
+            ],
+            [
+              133.043146,
+              35.476925
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5ddd\u8d8a\u5e02\u53e4\u8c37\u4e0a\u4ed8\u8fd1-\u7d0b\u8535\u5eb5\u672c\u5e97\u306e\u99d0\u8eca\u5834\u306bcapacity\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95325314
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.524281,
+              35.915823
+            ],
+            [
+              139.52447,
+              35.915823
+            ],
+            [
+              139.52447,
+              35.916309
+            ],
+            [
+              139.524281,
+              35.916309
+            ],
+            [
+              139.524281,
+              35.915823
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "MRT\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0 #MappingAdventureJapan\n#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95332186
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.03823,
+              35.070879
+            ],
+            [
+              134.038837,
+              35.070879
+            ],
+            [
+              134.038837,
+              35.072016
+            ],
+            [
+              134.03823,
+              35.072016
+            ],
+            [
+              134.03823,
+              35.070879
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4eac\u90fd\u5e02\u9d28\u5ddd\u5468\u8fba\u306e\u99d0\u8eca\u5834\u30fb\u6b69\u9053\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95332552
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.76566,
+              35.028342
+            ],
+            [
+              135.771602,
+              35.028342
+            ],
+            [
+              135.771602,
+              35.0385
+            ],
+            [
+              135.76566,
+              35.0385
+            ],
+            [
+              135.76566,
+              35.028342
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30d1\u30f3\u5de5\u623f\u304f\u308b\u307f\u306e\u6728\u3092\u8ffd\u52a0#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95332914
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.035204,
+              35.065311
+            ],
+            [
+              134.045871,
+              35.065311
+            ],
+            [
+              134.045871,
+              35.110315
+            ],
+            [
+              134.035204,
+              35.110315
+            ],
+            [
+              134.035204,
+              35.065311
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30e9\u30f3\u30c1\u30cf\u30a6\u30b9\u30b7\u30b7\u30a8\u30eb\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0 #MappingAdventureJapan\n#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95333123
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.045107,
+              35.074581
+            ],
+            [
+              134.045295,
+              35.074581
+            ],
+            [
+              134.045295,
+              35.074814
+            ],
+            [
+              134.045107,
+              35.074814
+            ],
+            [
+              134.045107,
+              35.074581
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u8fbc\u3081\u308b\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0 #MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95333727
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.060096,
+              35.167864
+            ],
+            [
+              134.060713,
+              35.167864
+            ],
+            [
+              134.060713,
+              35.168348
+            ],
+            [
+              134.060096,
+              35.168348
+            ],
+            [
+              134.060096,
+              35.167864
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30ed\u30fc\u30bd\u30f3\u52a0\u8302\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95334068
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.056261,
+              35.171903
+            ],
+            [
+              134.056865,
+              35.171903
+            ],
+            [
+              134.056865,
+              35.172452
+            ],
+            [
+              134.056261,
+              35.172452
+            ],
+            [
+              134.056261,
+              35.171903
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30ad\u30b7\u30e4\u306e\u99d0\u8eca\u5834\u3092\u8ffd\u52a0#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95334154
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.056054,
+              35.173063
+            ],
+            [
+              134.056265,
+              35.173063
+            ],
+            [
+              134.056265,
+              35.173542
+            ],
+            [
+              134.056054,
+              35.173542
+            ],
+            [
+              134.056054,
+              35.173063
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u99d0\u8eca\u5834\u30fb\u99d0\u8eca\u53ef\u80fd\u53f0\u6570\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95334711
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.159776,
+              35.616741
+            ],
+            [
+              140.160352,
+              35.616741
+            ],
+            [
+              140.160352,
+              35.61733
+            ],
+            [
+              140.159776,
+              35.61733
+            ],
+            [
+              140.159776,
+              35.616741
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u99d0\u8eca\u5834\u8ffd\u52a0\u3001\u53ce\u5bb9\u53f0\u6570\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u5357\u4ef2\u753a\u4ed6\uff09 #MappingAdventureJapan #MappyHourJapan",
+        "user": "Hokkosha",
+        "changeset": 95336856
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.901187,
+              43.799981
+            ],
+            [
+              143.90234,
+              43.799981
+            ],
+            [
+              143.90234,
+              43.801316
+            ],
+            [
+              143.901187,
+              43.801316
+            ],
+            [
+              143.901187,
+              43.799981
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u76f8\u5185\u99c5 \u99d0\u8f2a\u5834\u3001\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0\u7b49\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u76f8\u5185\u753a\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95351655
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.754492,
+              43.795852
+            ],
+            [
+              143.756041,
+              43.795852
+            ],
+            [
+              143.756041,
+              43.79621
+            ],
+            [
+              143.754492,
+              43.79621
+            ],
+            [
+              143.754492,
+              43.795852
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5ddd\u8d8a\u5e02\u5c0f\u4ed9\u6ce2\u4ed8\u8fd1-\u5cf6\u5fe0\u99d0\u8f2a\u5834\u306e\u8ffd\u52a0\uff65\u99d0\u8eca\u5834\u5f62\u72b6\u306e\u5909\u66f4 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95357082
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.500196,
+              35.919921
+            ],
+            [
+              139.502291,
+              35.919921
+            ],
+            [
+              139.502291,
+              35.921242
+            ],
+            [
+              139.500196,
+              35.921242
+            ],
+            [
+              139.500196,
+              35.919921
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95358593
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.043465,
+              35.478196
+            ],
+            [
+              133.045656,
+              35.478196
+            ],
+            [
+              133.045656,
+              35.482568
+            ],
+            [
+              133.043465,
+              35.482568
+            ],
+            [
+              133.043465,
+              35.478196
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95358847
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.043912,
+              35.477839
+            ],
+            [
+              133.044462,
+              35.477839
+            ],
+            [
+              133.044462,
+              35.478281
+            ],
+            [
+              133.043912,
+              35.478281
+            ],
+            [
+              133.043912,
+              35.477839
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "POI\u3092\u8ffd\u52a0\u304a\u3088\u3073\u66f4\u65b0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95359812
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.608018,
+              35.118678
+            ],
+            [
+              138.609126,
+              35.118678
+            ],
+            [
+              138.609126,
+              35.119866
+            ],
+            [
+              138.608018,
+              35.119866
+            ],
+            [
+              138.608018,
+              35.118678
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30ed\u30fc\u30bd\u30f3\u306e\u99d0\u8f2a\u5834\u3092\u8ffd\u52a0#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95363797
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.999427,
+              35.089858
+            ],
+            [
+              133.999518,
+              35.089858
+            ],
+            [
+              133.999518,
+              35.089915
+            ],
+            [
+              133.999427,
+              35.089915
+            ],
+            [
+              133.999427,
+              35.089858
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9903\u5b50\u306e\u738b\u5c06\u306e\u99d0\u8f2a\u5834\u3092\u8ffd\u52a0#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95363884
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.003429,
+              35.083393
+            ],
+            [
+              134.003457,
+              35.083393
+            ],
+            [
+              134.003457,
+              35.083438
+            ],
+            [
+              134.003429,
+              35.083438
+            ],
+            [
+              134.003429,
+              35.083393
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u77e5\u548c\u99c5\u306e\u5efa\u7269\u3092\u99d0\u8f2a\u5834\u3068\u30c8\u30a4\u30ec\u306b\u5909\u66f4\u3002#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95364347
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.077319,
+              35.192905
+            ],
+            [
+              134.077386,
+              35.192905
+            ],
+            [
+              134.077386,
+              35.192984
+            ],
+            [
+              134.077319,
+              35.192984
+            ],
+            [
+              134.077319,
+              35.192905
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u3068Mapillary\u306e\u753b\u50cf\u30c7\u30fc\u30bf\u306b\u57fa\u3065\u304d\u99d0\u8f2a\u5834\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95368390
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.160498,
+              35.630942
+            ],
+            [
+              140.161338,
+              35.630942
+            ],
+            [
+              140.161338,
+              35.631307
+            ],
+            [
+              140.160498,
+              35.631307
+            ],
+            [
+              140.160498,
+              35.630942
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5ddd\u8d8a\u5e02\u521d\u96c1\u6a4b\u4ee5\u897f-\u5ddd\u8d8a\u65e5\u9ad8\u7dda\u306e\u6b69\u9053\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95385803
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.430451,
+              35.91027
+            ],
+            [
+              139.468757,
+              35.91027
+            ],
+            [
+              139.468757,
+              35.928264
+            ],
+            [
+              139.430451,
+              35.928264
+            ],
+            [
+              139.430451,
+              35.91027
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6d25\u5c71\u5e02\u52a0\u8302\u306e\u89b3\u5149\u30bb\u30f3\u30bf\u30fc\u306e\u5efa\u7269\u306b\u30c8\u30a4\u30ec\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95389371
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.059178,
+              35.169669
+            ],
+            [
+              134.059262,
+              35.169669
+            ],
+            [
+              134.059262,
+              35.169735
+            ],
+            [
+              134.059178,
+              35.169735
+            ],
+            [
+              134.059178,
+              35.169669
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95417366
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.645611,
+              35.130101
+            ],
+            [
+              138.653637,
+              35.130101
+            ],
+            [
+              138.653637,
+              35.136996
+            ],
+            [
+              138.645611,
+              35.136996
+            ],
+            [
+              138.645611,
+              35.130101
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u8328\u6728\u5e02\u5927\u7530\u753a\u5468\u8fba\u306e\u99d0\u8f2a\u5834\u3001\u5efa\u7269\u306a\u3069\u3092\u8ffd\u52a0\u30fb\u4fee\u6b63 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95423103
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.562644,
+              34.798663
+            ],
+            [
+              135.606263,
+              34.798663
+            ],
+            [
+              135.606263,
+              34.916833
+            ],
+            [
+              135.562644,
+              34.916833
+            ],
+            [
+              135.562644,
+              34.798663
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6cc9\u6d8c\u5bfa\u5468\u8fba\u306e\u68ee\u3001\u5efa\u7269\u3001\u30c8\u30a4\u30ec\u306a\u3069\u3092\u8ffd\u52a0\u30fb\u4fee\u6b63 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95426541
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.776499,
+              34.975978
+            ],
+            [
+              135.782294,
+              34.975978
+            ],
+            [
+              135.782294,
+              34.981694
+            ],
+            [
+              135.776499,
+              34.981694
+            ],
+            [
+              135.776499,
+              34.975978
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u5143\u77e5\u8b58\u306b\u57fa\u3065\u304d\u30c8\u30a4\u30ec\u306e\u6709\u7121\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95426660
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.162229,
+              35.629061
+            ],
+            [
+              140.162904,
+              35.629061
+            ],
+            [
+              140.162904,
+              35.629655
+            ],
+            [
+              140.162229,
+              35.629655
+            ],
+            [
+              140.162229,
+              35.629061
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u4e0b\u9244\u4e2d\u6d25\u99c5\u306e\u30c8\u30a4\u30ec\u60c5\u5831\u3092\u8ffd\u52a0\u3000#MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 95427948
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.496373,
+              34.710418
+            ],
+            [
+              135.497336,
+              34.710418
+            ],
+            [
+              135.497336,
+              34.711495
+            ],
+            [
+              135.496373,
+              34.711495
+            ],
+            [
+              135.496373,
+              34.710418
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u7f8e\u5e4c\u822a\u7a7a\u516c\u5712 \u6771\u5c4b\u30fb\u30c8\u30a4\u30ec\u8ffd\u52a0\uff08\u7f8e\u5e4c\u753a\u662d\u91ce\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95448328
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.076796,
+              43.816138
+            ],
+            [
+              144.077095,
+              43.816138
+            ],
+            [
+              144.077095,
+              43.816308
+            ],
+            [
+              144.076796,
+              43.816308
+            ],
+            [
+              144.076796,
+              43.816138
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95453266
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.00437,
+              35.080382
+            ],
+            [
+              134.00437,
+              35.080382
+            ],
+            [
+              134.00437,
+              35.080382
+            ],
+            [
+              134.00437,
+              35.080382
+            ],
+            [
+              134.00437,
+              35.080382
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95454232
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.939807,
+              34.81538
+            ],
+            [
+              133.939807,
+              34.81538
+            ],
+            [
+              133.939807,
+              34.81538
+            ],
+            [
+              133.939807,
+              34.81538
+            ],
+            [
+              133.939807,
+              34.81538
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95455510
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.925168,
+              34.666733
+            ],
+            [
+              133.925168,
+              34.666733
+            ],
+            [
+              133.925168,
+              34.666733
+            ],
+            [
+              133.925168,
+              34.666733
+            ],
+            [
+              133.925168,
+              34.666733
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95456199
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.925211,
+              34.66593
+            ],
+            [
+              133.925234,
+              34.66593
+            ],
+            [
+              133.925234,
+              34.666136
+            ],
+            [
+              133.925211,
+              34.666136
+            ],
+            [
+              133.925211,
+              34.66593
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95468902
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.917911,
+              34.838303
+            ],
+            [
+              133.917911,
+              34.838303
+            ],
+            [
+              133.917911,
+              34.838303
+            ],
+            [
+              133.917911,
+              34.838303
+            ],
+            [
+              133.917911,
+              34.838303
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95472790
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.939061,
+              35.08038
+            ],
+            [
+              133.939061,
+              35.08038
+            ],
+            [
+              133.939061,
+              35.08038
+            ],
+            [
+              133.939061,
+              35.08038
+            ],
+            [
+              133.939061,
+              35.08038
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "POI\u30fb\u5efa\u7269\u306e\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95479525
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.617038,
+              35.141042
+            ],
+            [
+              138.618656,
+              35.141042
+            ],
+            [
+              138.618656,
+              35.142719
+            ],
+            [
+              138.617038,
+              35.142719
+            ],
+            [
+              138.617038,
+              35.141042
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6771\u798f\u5bfa\u99c5\u5468\u8fba\u306e\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95494337
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.770338,
+              34.981758
+            ],
+            [
+              135.770377,
+              34.981758
+            ],
+            [
+              135.770377,
+              34.981926
+            ],
+            [
+              135.770338,
+              34.981926
+            ],
+            [
+              135.770338,
+              34.981758
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Mapillary\u753b\u50cf\u306b\u57fa\u3065\u304d\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95494650
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.159342,
+              35.626201
+            ],
+            [
+              140.159342,
+              35.626201
+            ],
+            [
+              140.159342,
+              35.626201
+            ],
+            [
+              140.159342,
+              35.626201
+            ],
+            [
+              140.159342,
+              35.626201
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u98db\u7fd4\u6a4b\u4ed8\u8fd1\u306e\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0\u3000#MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 95495018
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.521802,
+              34.711195
+            ],
+            [
+              135.52181,
+              34.711195
+            ],
+            [
+              135.52181,
+              34.711216
+            ],
+            [
+              135.521802,
+              34.711216
+            ],
+            [
+              135.521802,
+              34.711195
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u90fd\u5cf6\u672c\u901a\uff11\u4ed8\u8fd1\u306e\u81ea\u52d5\u8ca9\u58f2\u6a5f\u3092\u8ffd\u52a0\u3000#MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 95495235
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.523111,
+              34.709959
+            ],
+            [
+              135.523112,
+              34.709959
+            ],
+            [
+              135.523112,
+              34.710022
+            ],
+            [
+              135.523111,
+              34.710022
+            ],
+            [
+              135.523111,
+              34.709959
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30d9\u30f3\u30c1\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95517894
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.934046,
+              34.771423
+            ],
+            [
+              133.934046,
+              34.771423
+            ],
+            [
+              133.934046,
+              34.771423
+            ],
+            [
+              133.934046,
+              34.771423
+            ],
+            [
+              133.934046,
+              34.771423
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5ddd\u8d8a\u5e02\u53e4\u8c37\u4e0a\u4ed8\u8fd1-\u99d0\u8eca\u5834\uff65\u30d9\u30f3\u30c1\u306e\u8ffd\u52a0; \u9053\u8def\u5f62\u72b6\u306e\u5909\u66f4; \u6700\u9ad8\u901f\u5ea6\u306e\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 95527620
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.524598,
+              35.916502
+            ],
+            [
+              139.531748,
+              35.916502
+            ],
+            [
+              139.531748,
+              35.929174
+            ],
+            [
+              139.524598,
+              35.929174
+            ],
+            [
+              139.524598,
+              35.916502
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95543366
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.387163,
+              34.953471
+            ],
+            [
+              138.393825,
+              34.953471
+            ],
+            [
+              138.393825,
+              34.956557
+            ],
+            [
+              138.387163,
+              34.956557
+            ],
+            [
+              138.387163,
+              34.953471
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u8328\u6728\u5e02\u5c71\u624b\u53f0\u306e\u30d9\u30f3\u30c1\u3084\u516c\u5712\u306a\u3069\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95551671
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.551377,
+              34.851034
+            ],
+            [
+              135.567888,
+              34.851034
+            ],
+            [
+              135.567888,
+              34.878956
+            ],
+            [
+              135.551377,
+              34.878956
+            ],
+            [
+              135.551377,
+              34.851034
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30d9\u30f3\u30c1\uff06\u82b1\u58c7\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95555762
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.926471,
+              34.665243
+            ],
+            [
+              133.926696,
+              34.665243
+            ],
+            [
+              133.926696,
+              34.665428
+            ],
+            [
+              133.926471,
+              34.665428
+            ],
+            [
+              133.926471,
+              34.665243
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30d9\u30f3\u30c1\uff06\u82b1\u58c7\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95556702
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.926478,
+              34.665347
+            ],
+            [
+              133.927045,
+              34.665347
+            ],
+            [
+              133.927045,
+              34.666051
+            ],
+            [
+              133.926478,
+              34.666051
+            ],
+            [
+              133.926478,
+              34.665347
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6bdb\u99ac\u685c\u4e4b\u5bae\u516c\u5712\u306e\u30d9\u30f3\u30c1\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 95556735
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.521499,
+              34.71634
+            ],
+            [
+              135.521763,
+              34.71634
+            ],
+            [
+              135.521763,
+              34.716781
+            ],
+            [
+              135.521499,
+              34.716781
+            ],
+            [
+              135.521499,
+              34.71634
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u856a\u6751\u516c\u5712\u5185\u306e\u30d9\u30f3\u30c1\u3084\u30c6\u30fc\u30d6\u30eb\u3001\u30c8\u30a4\u30ec\u5efa\u7269\u306a\u3069\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 95560456
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.519423,
+              34.718069
+            ],
+            [
+              135.520367,
+              34.718069
+            ],
+            [
+              135.520367,
+              34.719304
+            ],
+            [
+              135.519423,
+              34.719304
+            ],
+            [
+              135.519423,
+              34.718069
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4ea4\u5dee\u70b9\u30ac\u30fc\u30c9\u30ec\u30fc\u30eb\u30fb\u30d9\u30f3\u30c1\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u53174\u6761\u897f3\u4e01\u76ee\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95561180
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.891271,
+              43.804112
+            ],
+            [
+              143.891485,
+              43.804112
+            ],
+            [
+              143.891485,
+              43.804269
+            ],
+            [
+              143.891271,
+              43.804269
+            ],
+            [
+              143.891271,
+              43.804112
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5e2f\u5e83\u5e02\u7acb\u611b\u56fd\u5c0f\u5b66\u6821\u8ffd\u52a0\u3001\u5468\u8fba\u68ee\u6797\u4fee\u6b63 #maproulette #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95578454
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.192352,
+              42.835834
+            ],
+            [
+              143.217803,
+              42.835834
+            ],
+            [
+              143.217803,
+              42.882807
+            ],
+            [
+              143.192352,
+              42.882807
+            ],
+            [
+              143.192352,
+              42.835834
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan\n#maproulette #Phone_or_fax_number_is_not_in_international_format_(ITU-T_E.164)",
+        "user": "marukitax",
+        "changeset": 95584342
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.815367,
+              34.689818
+            ],
+            [
+              133.816001,
+              34.689818
+            ],
+            [
+              133.816001,
+              34.690252
+            ],
+            [
+              133.815367,
+              34.690252
+            ],
+            [
+              133.815367,
+              34.689818
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan #maproulette #Phone_or_fax_number_is_not_in_international_format_(ITU-T_E.164)",
+        "user": "marukitax",
+        "changeset": 95584426
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.150928,
+              35.014763
+            ],
+            [
+              134.150928,
+              35.014763
+            ],
+            [
+              134.150928,
+              35.014763
+            ],
+            [
+              134.150928,
+              35.014763
+            ],
+            [
+              134.150928,
+              35.014763
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan #maproulette #Phone_or_fax_number_is_not_in_international_format_(ITU-T_E.164)",
+        "user": "marukitax",
+        "changeset": 95584683
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.917739,
+              34.661419
+            ],
+            [
+              133.917739,
+              34.661419
+            ],
+            [
+              133.917739,
+              34.661419
+            ],
+            [
+              133.917739,
+              34.661419
+            ],
+            [
+              133.917739,
+              34.661419
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan #maproulette #Phone_or_fax_number_is_not_in_international_format_(ITU-T_E.164)",
+        "user": "marukitax",
+        "changeset": 95603967
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.916984,
+              34.66787
+            ],
+            [
+              133.916984,
+              34.66787
+            ],
+            [
+              133.916984,
+              34.66787
+            ],
+            [
+              133.916984,
+              34.66787
+            ],
+            [
+              133.916984,
+              34.66787
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan #maproulette #Phone_or_fax_number_is_not_in_international_format_(ITU-T_E.164)",
+        "user": "marukitax",
+        "changeset": 95604213
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.925618,
+              34.661944
+            ],
+            [
+              133.925618,
+              34.661944
+            ],
+            [
+              133.925618,
+              34.661944
+            ],
+            [
+              133.925618,
+              34.661944
+            ],
+            [
+              133.925618,
+              34.661944
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u7406\u9662\u5730\u56f3\u3092\u53c2\u8003\u306b\u3001\u5cf6\u306e\u540d\u79f0\u3092\u8ffd\u52a0 #maproulette #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95616232
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.943484,
+              34.572172
+            ],
+            [
+              138.94366,
+              34.572172
+            ],
+            [
+              138.94366,
+              34.572334
+            ],
+            [
+              138.943484,
+              34.572334
+            ],
+            [
+              138.943484,
+              34.572172
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u7406\u9662\u5730\u56f3\u3092\u53c2\u8003\u306b\u3001\u5cf6\u306e\u540d\u79f0\u3092\u8ffd\u52a0 #maproulette #MappingAdventureJapan",
+        "user": "ffff23",
+        "changeset": 95624452
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.804035,
+              35.066648
+            ],
+            [
+              139.826339,
+              35.066648
+            ],
+            [
+              139.826339,
+              35.111593
+            ],
+            [
+              139.804035,
+              35.111593
+            ],
+            [
+              139.804035,
+              35.066648
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u7406\u9662\u5730\u56f3\u3092\u53c2\u8003\u306b\u3001\u5cf6\u306e\u540d\u79f0\u3092\u8ffd\u52a0 #maproulette #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95625366
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.821643,
+              34.373293
+            ],
+            [
+              133.823358,
+              34.373293
+            ],
+            [
+              133.823358,
+              34.37436
+            ],
+            [
+              133.821643,
+              34.37436
+            ],
+            [
+              133.821643,
+              34.373293
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u7406\u9662\u5730\u56f3\u3092\u53c2\u8003\u306b\u3001\u5cf6\u306e\u540d\u79f0\u3092\u8ffd\u52a0 #maproulette #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95625429
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              128.376786,
+              32.030471
+            ],
+            [
+              128.380987,
+              32.030471
+            ],
+            [
+              128.380987,
+              32.035522
+            ],
+            [
+              128.376786,
+              32.035522
+            ],
+            [
+              128.376786,
+              32.030471
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95625965
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.043258,
+              35.47681
+            ],
+            [
+              133.043258,
+              35.47681
+            ],
+            [
+              133.043258,
+              35.47681
+            ],
+            [
+              133.043258,
+              35.47681
+            ],
+            [
+              133.043258,
+              35.47681
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u3068\u3093\u7530\u901a\uff08\u9053\u9053\u5317\u898b\u6d25\u5225\u7dda\uff09\u6b69\u9053\u30fb\u6a2a\u65ad\u6b69\u9053\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u3068\u3093\u7530\u6771\u753a-\u9326\u753a\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95644540
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.856518,
+              43.783879
+            ],
+            [
+              143.892999,
+              43.783879
+            ],
+            [
+              143.892999,
+              43.799223
+            ],
+            [
+              143.856518,
+              43.799223
+            ],
+            [
+              143.856518,
+              43.783879
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u7406\u9662\u5730\u56f3\u3092\u53c2\u8003\u306b\u3001\u5cf6\u306e\u540d\u79f0\u3092\u8ffd\u52a0 #maproulette #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95647516
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              132.311357,
+              33.46237
+            ],
+            [
+              139.452475,
+              33.46237
+            ],
+            [
+              139.452475,
+              42.016593
+            ],
+            [
+              132.311357,
+              42.016593
+            ],
+            [
+              132.311357,
+              33.46237
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95649028
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.03845,
+              35.480626
+            ],
+            [
+              133.04147,
+              35.480626
+            ],
+            [
+              133.04147,
+              35.481859
+            ],
+            [
+              133.03845,
+              35.481859
+            ],
+            [
+              133.03845,
+              35.480626
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing \u306b\u57fa\u3065\u304d\u9053\u8def\u3092\u7de8\u96c6 #MappingAdventureJapan",
+        "user": "roha--iwa",
+        "changeset": 95649229
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.283954,
+              35.430235
+            ],
+            [
+              133.286114,
+              35.430235
+            ],
+            [
+              133.286114,
+              35.430735
+            ],
+            [
+              133.283954,
+              35.430735
+            ],
+            [
+              133.283954,
+              35.430235
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306b\u57fa\u3065\u304d\u9053\u8def\u3092\u7de8\u96c6#MappingAdventureJapan",
+        "user": "Hitagi-12",
+        "changeset": 95649266
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.046619,
+              35.479439
+            ],
+            [
+              133.046913,
+              35.479439
+            ],
+            [
+              133.046913,
+              35.480949
+            ],
+            [
+              133.046619,
+              35.480949
+            ],
+            [
+              133.046619,
+              35.479439
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95678006
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.246462,
+              34.826996
+            ],
+            [
+              138.258071,
+              34.826996
+            ],
+            [
+              138.258071,
+              34.830345
+            ],
+            [
+              138.246462,
+              34.830345
+            ],
+            [
+              138.246462,
+              34.826996
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u5efa\u7269\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95687674
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.141452,
+              35.617151
+            ],
+            [
+              140.142127,
+              35.617151
+            ],
+            [
+              140.142127,
+              35.61824
+            ],
+            [
+              140.141452,
+              35.61824
+            ],
+            [
+              140.141452,
+              35.617151
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "JR\u6442\u6d25\u5bcc\u7530\u99c5\u306eAED\u3068\u5468\u8fba\u306e\u9053\u306a\u3069\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95710926
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.592373,
+              34.836984
+            ],
+            [
+              135.59386,
+              34.836984
+            ],
+            [
+              135.59386,
+              34.837908
+            ],
+            [
+              135.592373,
+              34.837908
+            ],
+            [
+              135.592373,
+              34.836984
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4e00\u5bae\u5c0f\u5b66\u6821\u306eAED\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95712144
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.000583,
+              35.101799
+            ],
+            [
+              134.000583,
+              35.101799
+            ],
+            [
+              134.000583,
+              35.101799
+            ],
+            [
+              134.000583,
+              35.101799
+            ],
+            [
+              134.000583,
+              35.101799
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5168\u79e6\u901a\u79f0\u30d3\u30eb\u306eAED\u3092\u8ffd\u52a0\u3002#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95714021
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.99821,
+              35.061066
+            ],
+            [
+              133.99821,
+              35.061066
+            ],
+            [
+              133.99821,
+              35.061066
+            ],
+            [
+              133.99821,
+              35.061066
+            ],
+            [
+              133.99821,
+              35.061066
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95714341
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.059578,
+              34.815562
+            ],
+            [
+              139.074982,
+              34.815562
+            ],
+            [
+              139.074982,
+              34.829124
+            ],
+            [
+              139.059578,
+              34.829124
+            ],
+            [
+              139.059578,
+              34.815562
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u306e\u99c5\u304a\u3093\u306d\u3086\u6e29\u6cc9 AED\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u7559\u8fba\u8602\u753a\u677e\u5c71\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95723637
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.500113,
+              43.754591
+            ],
+            [
+              143.500113,
+              43.754591
+            ],
+            [
+              143.500113,
+              43.754591
+            ],
+            [
+              143.500113,
+              43.754591
+            ],
+            [
+              143.500113,
+              43.754591
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u6b69\u9053\u30fb\u6a2a\u65ad\u6b69\u9053\u3092\u8ffd\u52a0\u3001\u7bc4\u56f2\u3092\u4fee\u6b63 #MappingAdventureJapan #MappyHourJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95723665
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.153649,
+              35.615397
+            ],
+            [
+              140.163084,
+              35.615397
+            ],
+            [
+              140.163084,
+              35.632628
+            ],
+            [
+              140.153649,
+              35.632628
+            ],
+            [
+              140.153649,
+              35.615397
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95742096
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.654413,
+              35.136741
+            ],
+            [
+              138.660081,
+              35.136741
+            ],
+            [
+              138.660081,
+              35.143046
+            ],
+            [
+              138.654413,
+              35.143046
+            ],
+            [
+              138.654413,
+              35.136741
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4e00\u5bae\u5730\u533a\u306e\u6d88\u706b\u6813\u3092\u767b\u9332\u3002#MappingAdventureJapan#MappyHourJapan",
+        "user": "marukitax",
+        "changeset": 95749776
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.994699,
+              35.091249
+            ],
+            [
+              133.9991,
+              35.091249
+            ],
+            [
+              133.9991,
+              35.099314
+            ],
+            [
+              133.994699,
+              35.099314
+            ],
+            [
+              133.994699,
+              35.091249
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u73fe\u5730\u8abf\u67fb\u306b\u3088\u308a\u6d88\u706b\u6813\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u65b0\u751f\u753a\u4ed6\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95754992
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.876937,
+              43.783938
+            ],
+            [
+              143.932997,
+              43.783938
+            ],
+            [
+              143.932997,
+              43.833207
+            ],
+            [
+              143.876937,
+              43.833207
+            ],
+            [
+              143.876937,
+              43.783938
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u6b69\u9053\u30fb\u6a2a\u65ad\u6b69\u9053\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95755999
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.151418,
+              35.614704
+            ],
+            [
+              140.153788,
+              35.614704
+            ],
+            [
+              140.153788,
+              35.617414
+            ],
+            [
+              140.151418,
+              35.617414
+            ],
+            [
+              140.151418,
+              35.614704
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "AED\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "ffff23",
+        "changeset": 95757650
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.554564,
+              35.555413
+            ],
+            [
+              139.554564,
+              35.555413
+            ],
+            [
+              139.554564,
+              35.555413
+            ],
+            [
+              139.554564,
+              35.555413
+            ],
+            [
+              139.554564,
+              35.555413
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95804534
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.239617,
+              34.888766
+            ],
+            [
+              138.263146,
+              34.888766
+            ],
+            [
+              138.263146,
+              34.896676
+            ],
+            [
+              138.239617,
+              34.896676
+            ],
+            [
+              138.239617,
+              34.888766
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u3068Mapillary\u306e\u753b\u50cf\u30c7\u30fc\u30bf\u306b\u57fa\u3065\u304d\u5efa\u7269\u306e\u56de\u6570\u3092\u5165\u529b\u30fb\u5546\u696d\u65bd\u8a2d\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95810012
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.159501,
+              35.617209
+            ],
+            [
+              140.162498,
+              35.617209
+            ],
+            [
+              140.162498,
+              35.617801
+            ],
+            [
+              140.159501,
+              35.617801
+            ],
+            [
+              140.159501,
+              35.617209
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "R39 \u8857\u8def\u706f\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u672c\u753a\u30fb\u5927\u901a\u897f\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95812222
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.891609,
+              43.800295
+            ],
+            [
+              143.893189,
+              43.800295
+            ],
+            [
+              143.893189,
+              43.80189
+            ],
+            [
+              143.891609,
+              43.80189
+            ],
+            [
+              143.891609,
+              43.800295
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5e97\u8217\u306e\u4f4d\u7f6e\u3092\u4fee\u6b63 #MappingAdventureJapan",
+        "user": "ffff23",
+        "changeset": 95812451
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.609501,
+              35.598634
+            ],
+            [
+              139.610022,
+              35.598634
+            ],
+            [
+              139.610022,
+              35.598838
+            ],
+            [
+              139.609501,
+              35.598838
+            ],
+            [
+              139.609501,
+              35.598634
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4e07\u535a\u8a18\u5ff5\u516c\u5712\u306e\u592a\u967d\u306e\u5e83\u5834\u3092\u793a\u3059\u6848\u5185\u677f\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95836499
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.532505,
+              34.808415
+            ],
+            [
+              135.532505,
+              34.808415
+            ],
+            [
+              135.532505,
+              34.808415
+            ],
+            [
+              135.532505,
+              34.808415
+            ],
+            [
+              135.532505,
+              34.808415
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95867862
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.633083,
+              35.146315
+            ],
+            [
+              138.640391,
+              35.146315
+            ],
+            [
+              138.640391,
+              35.154668
+            ],
+            [
+              138.633083,
+              35.154668
+            ],
+            [
+              138.633083,
+              35.146315
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5c71\u967d\u30de\u30eb\u30ca\u30ab\u9662\u5e84\u5e97\u3092\u767b\u9332\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95868348
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.948243,
+              35.060435
+            ],
+            [
+              133.948243,
+              35.060435
+            ],
+            [
+              133.948243,
+              35.060435
+            ],
+            [
+              133.948243,
+              35.060435
+            ],
+            [
+              133.948243,
+              35.060435
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u8d64\u5800\u75c5\u9662\u306f\u300c\u5ca1\u5c71\u770c\u6d25\u5c71\u5e02\u693f\u9ad8\u4e0b33\u300d\u306b\u79fb\u8ee2\u3057\u767b\u9332\u6e08\u307f\u306e\u70ba\u524a\u9664\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95869312
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.002626,
+              35.061969
+            ],
+            [
+              134.002626,
+              35.061969
+            ],
+            [
+              134.002626,
+              35.061969
+            ],
+            [
+              134.002626,
+              35.061969
+            ],
+            [
+              134.002626,
+              35.061969
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9d28\u6c5f\u4e09\u4e01\u76ee\uff1a \u30a4\u30f3\u30c9\u6599\u7406\u5e97\u306b\u60c5\u5831\u3092\u8ffd\u52a0\u3002\u5730\u56f3\u30e1\u30e2\u3082\u89e3\u6c7a\uff01 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 95877792
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.707724,
+              34.705623
+            ],
+            [
+              137.707872,
+              34.705623
+            ],
+            [
+              137.707872,
+              34.705737
+            ],
+            [
+              137.707724,
+              34.705737
+            ],
+            [
+              137.707724,
+              34.705623
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u6b69\u9053\u30fb\u6a2a\u65ad\u6b69\u9053\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95880744
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.14846,
+              35.600687
+            ],
+            [
+              140.153508,
+              35.600687
+            ],
+            [
+              140.153508,
+              35.620997
+            ],
+            [
+              140.14846,
+              35.620997
+            ],
+            [
+              140.14846,
+              35.600687
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30bb\u30a4\u30b3\u30fc\u30de\u30fc\u30c8\u659c\u91cc\u5e97 \u5e97\u8217\u30bf\u30b0\u3092\u30ce\u30fc\u30c9\u304b\u3089\u5efa\u7269\u306b\u7d71\u5408\uff08\u659c\u91cc\u753a\u6e2f\u753a\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95903283
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.661454,
+              43.911945
+            ],
+            [
+              144.661726,
+              43.911945
+            ],
+            [
+              144.661726,
+              43.912192
+            ],
+            [
+              144.661454,
+              43.912192
+            ],
+            [
+              144.661454,
+              43.911945
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30d0\u30b9\u505c\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95909975
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.997798,
+              35.060857
+            ],
+            [
+              133.997798,
+              35.060857
+            ],
+            [
+              133.997798,
+              35.060857
+            ],
+            [
+              133.997798,
+              35.060857
+            ],
+            [
+              133.997798,
+              35.060857
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 95941981
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.301443,
+              34.835326
+            ],
+            [
+              138.318184,
+              34.835326
+            ],
+            [
+              138.318184,
+              34.84172
+            ],
+            [
+              138.301443,
+              34.84172
+            ],
+            [
+              138.301443,
+              34.835326
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u6b69\u9053\u30fb\u6a2a\u65ad\u6b69\u9053\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 95945185
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.147402,
+              35.613506
+            ],
+            [
+              140.152006,
+              35.613506
+            ],
+            [
+              140.152006,
+              35.614839
+            ],
+            [
+              140.147402,
+              35.614839
+            ],
+            [
+              140.147402,
+              35.613506
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u99ac\u90e1\u753a\uff1a \u30d5\u30a1\u30df\u30ea\u30fc\u30de\u30fc\u30c8\u3092\u8ffd\u52a0\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 95945987
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.628338,
+              34.680902
+            ],
+            [
+              137.629051,
+              34.680902
+            ],
+            [
+              137.629051,
+              34.681187
+            ],
+            [
+              137.628338,
+              34.681187
+            ],
+            [
+              137.628338,
+              34.680902
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "TSUTAYA\u30ce\u30fc\u30b9\u30e9\u30f3\u30c9\u5e97\u3092\u8ffd\u52a0  #MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 95946232
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.00381,
+              35.081032
+            ],
+            [
+              134.00381,
+              35.081032
+            ],
+            [
+              134.00381,
+              35.081032
+            ],
+            [
+              134.00381,
+              35.081032
+            ],
+            [
+              134.00381,
+              35.081032
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u9053\u5317\u898b\u6d25\u5225\u7dda \u6b69\u9053\u30fb\u6a2a\u65ad\u6b69\u9053\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u9326\u753a\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 95966201
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.872322,
+              43.783682
+            ],
+            [
+              143.879304,
+              43.783682
+            ],
+            [
+              143.879304,
+              43.788026
+            ],
+            [
+              143.872322,
+              43.788026
+            ],
+            [
+              143.872322,
+              43.783682
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u56f3\u30e1\u30e2\u89e3\u6d88\u3082\u542b\u3081\u3066\u3001\u9ad8\u69fb\u5e02\u6625\u65e5\u795e\u793e\u5468\u8fba\u306e\u5efa\u7269\u3092\u8ffd\u52a0\u30fb\u4fee\u6b63 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 95967756
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.586685,
+              34.840543
+            ],
+            [
+              135.593019,
+              34.840543
+            ],
+            [
+              135.593019,
+              34.846246
+            ],
+            [
+              135.586685,
+              34.846246
+            ],
+            [
+              135.586685,
+              34.840543
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u73fe\u5730\u8abf\u67fb\u306b\u57fa\u3065\u304d\u5e97\u8217\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96009876
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.117153,
+              35.609795
+            ],
+            [
+              140.117153,
+              35.609795
+            ],
+            [
+              140.117153,
+              35.609795
+            ],
+            [
+              140.117153,
+              35.609795
+            ],
+            [
+              140.117153,
+              35.609795
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5927\u4eba\u898b\u753a\uff1a \u3086\u3046\u30fb\u304a\u304a\u3072\u3068\u307f\u306e\u6a2a\u65ad\u6b69\u9053\u3092\u8ffd\u52a0\u3057\u307e\u3057\u307e\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96009933
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.64898,
+              34.73638
+            ],
+            [
+              137.658834,
+              34.73638
+            ],
+            [
+              137.658834,
+              34.738341
+            ],
+            [
+              137.64898,
+              34.738341
+            ],
+            [
+              137.64898,
+              34.73638
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4fe1\u53f7\u8ffd\u52a0\uff08\u5f1f\u5b50\u5c48\u753a\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 96030615
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.441323,
+              43.486649
+            ],
+            [
+              144.463519,
+              43.486649
+            ],
+            [
+              144.463519,
+              43.49045
+            ],
+            [
+              144.441323,
+              43.49045
+            ],
+            [
+              144.441323,
+              43.486649
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9ad8\u69fb\u5e02\u306e\u7121\u304f\u306a\u3063\u305f\u304a\u5e97\u3092\u524a\u9664 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 96036495
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.58356,
+              34.8495
+            ],
+            [
+              135.587814,
+              34.8495
+            ],
+            [
+              135.587814,
+              34.851789
+            ],
+            [
+              135.58356,
+              34.851789
+            ],
+            [
+              135.58356,
+              34.8495
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4fe1\u53f7\u6a5f\u3092\u767b\u9332\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 96037753
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.764697,
+              34.993287
+            ],
+            [
+              135.764697,
+              34.993287
+            ],
+            [
+              135.764697,
+              34.993287
+            ],
+            [
+              135.764697,
+              34.993287
+            ],
+            [
+              135.764697,
+              34.993287
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4fe1\u53f7\u6a5f\u3092\u767b\u9332\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 96037786
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.764486,
+              34.992909
+            ],
+            [
+              135.764486,
+              34.992909
+            ],
+            [
+              135.764486,
+              34.992909
+            ],
+            [
+              135.764486,
+              34.992909
+            ],
+            [
+              135.764486,
+              34.992909
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5ddd\u8d8a\u5e02\u4f0a\u4f50\u6cbc\u4ed8\u8fd1-\u4fe1\u53f7\u6a5f\u306e\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 96049001
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.516956,
+              35.928494
+            ],
+            [
+              139.520258,
+              35.928494
+            ],
+            [
+              139.520258,
+              35.928809
+            ],
+            [
+              139.516956,
+              35.928809
+            ],
+            [
+              139.516956,
+              35.928494
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6e56\u6771\u753a\uff1a \u6e56\u6771\u4e2d\u5b66\u6821\u306e\u6821\u9580\u524d\u306e\u4fe1\u53f7\u6a5f\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96068319
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.653596,
+              34.745903
+            ],
+            [
+              137.660845,
+              34.745903
+            ],
+            [
+              137.660845,
+              34.761777
+            ],
+            [
+              137.653596,
+              34.761777
+            ],
+            [
+              137.653596,
+              34.745903
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u30fb\u5efa\u7269\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 96069733
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.319384,
+              34.843507
+            ],
+            [
+              138.329284,
+              34.843507
+            ],
+            [
+              138.329284,
+              34.846927
+            ],
+            [
+              138.319384,
+              34.846927
+            ],
+            [
+              138.319384,
+              34.843507
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4fe1\u53f7\u3092\u8ffd\u52a0\u3001\u30d0\u30b9\u505c\u4f4d\u7f6e\u3092\u4fee\u6b63 #MappingAdventureJapan",
+        "user": "ffff23",
+        "changeset": 96075431
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.612948,
+              35.594349
+            ],
+            [
+              139.614062,
+              35.594349
+            ],
+            [
+              139.614062,
+              35.596497
+            ],
+            [
+              139.612948,
+              35.596497
+            ],
+            [
+              139.612948,
+              35.594349
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u5143\u77e5\u8b58\u306b\u57fa\u3065\u304d\u4fe1\u53f7\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96075600
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.158466,
+              35.617113
+            ],
+            [
+              140.171254,
+              35.617113
+            ],
+            [
+              140.171254,
+              35.622627
+            ],
+            [
+              140.158466,
+              35.622627
+            ],
+            [
+              140.158466,
+              35.617113
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6cb3\u5185\u9577\u91ce\u5e02\u306e\u4fe1\u53f7\u6a5f\u3092\u8ffd\u52a0\u3000#MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 96077585
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.554705,
+              34.416459
+            ],
+            [
+              135.568098,
+              34.416459
+            ],
+            [
+              135.568098,
+              34.423701
+            ],
+            [
+              135.554705,
+              34.423701
+            ],
+            [
+              135.554705,
+              34.416459
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u7551\u30fb\u8fb2\u696d\u65bd\u8a2d\u7528\u5730\u30fb\u8fb2\u9053\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u5e83\u90f7\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 96094351
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.804976,
+              43.767028
+            ],
+            [
+              143.836611,
+              43.767028
+            ],
+            [
+              143.836611,
+              43.771378
+            ],
+            [
+              143.804976,
+              43.771378
+            ],
+            [
+              143.804976,
+              43.767028
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fbPOI\u306e\u7cbe\u5ea6\u5411\u4e0a\u3001\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 96095585
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.707835,
+              35.182798
+            ],
+            [
+              138.718374,
+              35.182798
+            ],
+            [
+              138.718374,
+              35.189229
+            ],
+            [
+              138.707835,
+              35.189229
+            ],
+            [
+              138.707835,
+              35.182798
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9ad8\u69fb\u5e02\u306e\u9ad8\u901f\u9053\u8def\u5468\u8fba\u306e\u5efa\u7269\u30fb\u9053\u8def\u3092\u8ffd\u52a0\u4fee\u6b63\u3002\u6b69\u9053\u3082\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 96096442
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              135.581763,
+              34.851232
+            ],
+            [
+              135.592984,
+              34.851232
+            ],
+            [
+              135.592984,
+              34.860945
+            ],
+            [
+              135.581763,
+              34.860945
+            ],
+            [
+              135.581763,
+              34.851232
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30b3\u30fc\u30d7\u3055\u3063\u307d\u308d\u304d\u3088\u307f\u5e97 \u73fe\u5730\u8abf\u67fb\u306b\u3088\u308a\u4f4f\u6240\u30fb\u30c6\u30ca\u30f3\u30c8\u30fb\u81ea\u52d5\u8ca9\u58f2\u6a5f\u7b49\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u6e05\u898b\u753a\uff09 #MappingAdventureJapan #MappyHourJapan",
+        "user": "Hokkosha",
+        "changeset": 96100330
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.883639,
+              43.814884
+            ],
+            [
+              143.885058,
+              43.814884
+            ],
+            [
+              143.885058,
+              43.817596
+            ],
+            [
+              143.883639,
+              43.817596
+            ],
+            [
+              143.883639,
+              43.814884
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30b3\u30fc\u30d7\u3055\u3063\u307d\u308d\u304d\u3088\u307f\u5e97 \u73fe\u5730\u8abf\u67fb\u306b\u3088\u308a\u81ea\u52d5\u8ca9\u58f2\u6a5f\u7b49\u8ffd\u52a0\u30fb\u4fee\u6b63\uff08\u5317\u898b\u5e02\u6e05\u898b\u753a\uff09 #MappingAdventureJapan #MappyHourJapan",
+        "user": "Hokkosha",
+        "changeset": 96101033
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.884073,
+              43.815806
+            ],
+            [
+              143.884124,
+              43.815806
+            ],
+            [
+              143.884124,
+              43.815816
+            ],
+            [
+              143.884073,
+              43.815816
+            ],
+            [
+              143.884073,
+              43.815806
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30c0\u30a4\u30bd\u30fc\u5317\u898b\u5357\u753a\u5e97 \u5e97\u8217\u8ffd\u52a0\u3001\u4f4f\u6240\u7b49\u8ffd\u52a0 #MappingAdventureJapan #MappyHourJapan",
+        "user": "Hokkosha",
+        "changeset": 96101745
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.899158,
+              43.796409
+            ],
+            [
+              143.900909,
+              43.796409
+            ],
+            [
+              143.900909,
+              43.797676
+            ],
+            [
+              143.899158,
+              43.797676
+            ],
+            [
+              143.899158,
+              43.796409
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u30b5\u30f3\u30c9\u30e9\u30c3\u30b0\u5317\u898b\u9752\u8449\u5e97 \u5e97\u540d\u8a02\u6b63\u3001\u4f4f\u6240\u7b49\u8ffd\u52a0 #MappingAdventureJapan #MappyHourJapan",
+        "user": "Hokkosha",
+        "changeset": 96102654
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.89651,
+              43.814991
+            ],
+            [
+              143.897697,
+              43.814991
+            ],
+            [
+              143.897697,
+              43.815766
+            ],
+            [
+              143.89651,
+              43.815766
+            ],
+            [
+              143.89651,
+              43.814991
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u4e26\u585a\u4ed8\u8fd1-\u57fa\u76e4\u5730\u56f3\u60c5\u5831\u3088\u308a\u5efa\u7269\u306e\u30c8\u30ec\u30fc\u30b9\uff65\u66f4\u65b0; \u8fb2\u5730\u30dd\u30ea\u30b4\u30f3\u5f62\u72b6\u306e\u5909\u66f4 #MappyHourJapan #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 96106621
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.748432,
+              36.038227
+            ],
+            [
+              139.769295,
+              36.038227
+            ],
+            [
+              139.769295,
+              36.058604
+            ],
+            [
+              139.748432,
+              36.058604
+            ],
+            [
+              139.748432,
+              36.038227
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u4e26\u585a\u4ed8\u8fd1-\u57fa\u76e4\u5730\u56f3\u60c5\u5831\u3088\u308a\u5efa\u7269\u306e\u30c8\u30ec\u30fc\u30b9\uff65\u66f4\u65b0; \u8fb2\u5730\u30dd\u30ea\u30b4\u30f3\u5f62\u72b6\u306e\u5909\u66f4 #MappyHourJapan #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 96106764
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.764992,
+              36.034779
+            ],
+            [
+              139.767329,
+              36.034779
+            ],
+            [
+              139.767329,
+              36.038605
+            ],
+            [
+              139.764992,
+              36.038605
+            ],
+            [
+              139.764992,
+              36.034779
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5927\u4eba\u898b\u753a\u30fb\u4f50\u6d5c\u753a\uff1a JOSM\u3067\u592a\u967d\u5149\u767a\u96fb\u6240\u3092\u7de8\u96c6\u3002\u30bd\u30fc\u30e9\u30fc\u30d1\u30cd\u30eb\u3092\u7b49\u9593\u9694\u306b\u4e26\u3079\u307e\u3057\u305f\u3002#MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96107222
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.647392,
+              34.737624
+            ],
+            [
+              137.662768,
+              34.737624
+            ],
+            [
+              137.662768,
+              34.744296
+            ],
+            [
+              137.647392,
+              34.744296
+            ],
+            [
+              137.647392,
+              34.737624
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4ea4\u901a\u5236\u9650\u3092\u8ffd\u52a0\u3001\u30d0\u30b9\u505c\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "ffff23",
+        "changeset": 96109811
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.613127,
+              35.590469
+            ],
+            [
+              139.616421,
+              35.590469
+            ],
+            [
+              139.616421,
+              35.596138
+            ],
+            [
+              139.613127,
+              35.596138
+            ],
+            [
+              139.613127,
+              35.590469
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u5143\u77e5\u8b58\u3068Bing\u306e\u822a\u7a7a\u5199\u771f\u3092\u3082\u3068\u306b\u6b69\u9053\u3068\u4fe1\u53f7\u3092\u8ffd\u52a0 #MappingAdventureJapan #MappyHourJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96110963
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.12602,
+              35.608482
+            ],
+            [
+              140.162821,
+              35.608482
+            ],
+            [
+              140.162821,
+              35.632628
+            ],
+            [
+              140.12602,
+              35.632628
+            ],
+            [
+              140.12602,
+              35.608482
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u5143\u77e5\u8b58\u3092\u3082\u3068\u306b\u6b69\u9053\u3092\u7de8\u96c6 #MappingAdventureJapan #MappyHourJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96112322
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.143644,
+              35.612931
+            ],
+            [
+              140.14412,
+              35.612931
+            ],
+            [
+              140.14412,
+              35.613115
+            ],
+            [
+              140.143644,
+              35.613115
+            ],
+            [
+              140.143644,
+              35.612931
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5927\u4eba\u898b\u753a\uff1a \u3086\u3046\u30fb\u304a\u304a\u3072\u3068\u307f\u306e\u30d0\u30b9\u505c\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96138634
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.649385,
+              34.7364
+            ],
+            [
+              137.656498,
+              34.7364
+            ],
+            [
+              137.656498,
+              34.737954
+            ],
+            [
+              137.649385,
+              34.737954
+            ],
+            [
+              137.649385,
+              34.7364
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u7406\u9662\u5730\u56f3\u3092\u53c2\u8003\u306b\u3001\u5cf6\u306e\u540d\u79f0\u3092\u8ffd\u52a0 #maproulette #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96140684
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              130.947141,
+              34.4084
+            ],
+            [
+              130.947141,
+              34.4084
+            ],
+            [
+              130.947141,
+              34.4084
+            ],
+            [
+              130.947141,
+              34.4084
+            ],
+            [
+              130.947141,
+              34.4084
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u300c\u667a\u6e80\u5bfa\u306e\u5341\u672c\u30b9\u30ae\u300d(\u5cf6\u7530\u5e02)\uff1a \u73fe\u5b58\u3059\u308b\u4e03\u672c\u3068\u5012\u6728\u4e00\u672c\u3092\u8ffd\u52a0\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96193546
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.155499,
+              34.886595
+            ],
+            [
+              138.163446,
+              34.886595
+            ],
+            [
+              138.163446,
+              34.893253
+            ],
+            [
+              138.155499,
+              34.893253
+            ],
+            [
+              138.155499,
+              34.886595
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u99ac\u90e1\u753a\uff1a \u677e\u306e\u6728(\u6771\u6d77\u9053\u677e\u4e26\u6728\u306e\u540d\u6b8b)\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002#MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96199994
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.627384,
+              34.683671
+            ],
+            [
+              137.627384,
+              34.683671
+            ],
+            [
+              137.627384,
+              34.683671
+            ],
+            [
+              137.627384,
+              34.683671
+            ],
+            [
+              137.627384,
+              34.683671
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u5143\u77e5\u8b58\u3068Bing\u306e\u822a\u7a7a\u5199\u771f\u3092\u3082\u3068\u306b\u6b69\u9053\u3092\u7de8\u96c6 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96201253
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.12602,
+              35.609897
+            ],
+            [
+              140.151606,
+              35.609897
+            ],
+            [
+              140.151606,
+              35.614878
+            ],
+            [
+              140.12602,
+              35.614878
+            ],
+            [
+              140.12602,
+              35.609897
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4e2d\u5c71\u795e\u793e\u795d\u6728\u306e\u30b1\u30e4\u30ad\u3092\u767b\u9332\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 96208144
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              133.996189,
+              35.099085
+            ],
+            [
+              133.996189,
+              35.099085
+            ],
+            [
+              133.996189,
+              35.099085
+            ],
+            [
+              133.996189,
+              35.099085
+            ],
+            [
+              133.996189,
+              35.099085
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5efa\u7269\u304c\u53d6\u308a\u58ca\u3055\u308c\u3066\u3044\u308b\u3002#MappingAdventureJapan",
+        "user": "marukitax",
+        "changeset": 96208800
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              134.142133,
+              35.213461
+            ],
+            [
+              134.142363,
+              35.213461
+            ],
+            [
+              134.142363,
+              35.213576
+            ],
+            [
+              134.142133,
+              35.213576
+            ],
+            [
+              134.142133,
+              35.213461
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u77ed\u3044\u9053\u8def\u3092\u7d50\u5408\uff08\u7f8e\u5e4c\u753a\u8c4a\u5bcc\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 96219705
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.173916,
+              43.729773
+            ],
+            [
+              144.209792,
+              43.729773
+            ],
+            [
+              144.209792,
+              43.771582
+            ],
+            [
+              144.173916,
+              43.771582
+            ],
+            [
+              144.173916,
+              43.729773
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5ddd\u8d8a\u5e02\u7684\u5834\u4ed8\u8fd1-\u30ec\u30f3\u30bf\u30ab\u30fc\u5e97\u306e\u5efa\u7269\u3092\u8ffd\u52a0; \u65e7\u30b3\u30f3\u30d3\u30cb\u306e\u5730\u7269\u3092\u524a\u9664 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 96252102
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.426889,
+              35.913122
+            ],
+            [
+              139.42745,
+              35.913122
+            ],
+            [
+              139.42745,
+              35.913402
+            ],
+            [
+              139.426889,
+              35.913402
+            ],
+            [
+              139.426889,
+              35.913122
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5efa\u7269\u306e\u66f4\u65b0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 96253550
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.883501,
+              35.202948
+            ],
+            [
+              138.910848,
+              35.202948
+            ],
+            [
+              138.910848,
+              35.210569
+            ],
+            [
+              138.883501,
+              35.210569
+            ],
+            [
+              138.883501,
+              35.202948
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5927\u4eba\u898b\u753a\uff1a \u3068\u3063\u304f\u306e\u3068\u3093\u307e\u306b\u89e3\u4f53\u3055\u308c\u305f\u30b3\u30f3\u30d3\u30cb\u3092\u524a\u9664\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96261926
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.647529,
+              34.738153
+            ],
+            [
+              137.647788,
+              34.738153
+            ],
+            [
+              137.647788,
+              34.738336
+            ],
+            [
+              137.647529,
+              34.738336
+            ],
+            [
+              137.647529,
+              34.738153
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u821e\u962a\u753a\uff1a \u89e3\u4f53\u3055\u308c\u305f\u5e02\u55b6\u4f4f\u5b85\u3092\u524a\u9664\u3002#MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96262261
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.619325,
+              34.678684
+            ],
+            [
+              137.623957,
+              34.678684
+            ],
+            [
+              137.623957,
+              34.679228
+            ],
+            [
+              137.619325,
+              34.679228
+            ],
+            [
+              137.619325,
+              34.678684
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "Bing\u306e\u822a\u7a7a\u5199\u771f\u3068\u5730\u5143\u77e5\u8b58\u306b\u57fa\u3065\u304d\u6b69\u9053\u3092\u8ffd\u52a0  #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96263324
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.134357,
+              35.610065
+            ],
+            [
+              140.1444,
+              35.610065
+            ],
+            [
+              140.1444,
+              35.61689
+            ],
+            [
+              140.134357,
+              35.61689
+            ],
+            [
+              140.134357,
+              35.610065
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u8fb2\u9053\u8ffd\u52a0\uff08\u5317\u898b\u5e02\u5e83\u90f7\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 96282983
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              143.823465,
+              43.759331
+            ],
+            [
+              143.851343,
+              43.759331
+            ],
+            [
+              143.851343,
+              43.784787
+            ],
+            [
+              143.823465,
+              43.784787
+            ],
+            [
+              143.823465,
+              43.759331
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5ddd\u8d8a\u5e02\u5c0f\u4ed9\u6ce2\u4ed8\u8fd1-\u57fa\u76e4\u5730\u56f3\u60c5\u5831\u3088\u308a\u8fb2\u9053\u306e\u30c8\u30ec\u30fc\u30b9; \u9053\u8def\u7a2e\u5225\u306e\u5909\u66f4 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 96293762
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.499701,
+              35.919156
+            ],
+            [
+              139.511311,
+              35.919156
+            ],
+            [
+              139.511311,
+              35.927131
+            ],
+            [
+              139.499701,
+              35.927131
+            ],
+            [
+              139.499701,
+              35.919156
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5343\u8449\u306e\u5efa\u7269\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "K_Sakanoshita",
+        "changeset": 96314669
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.140612,
+              35.612685
+            ],
+            [
+              140.144287,
+              35.612685
+            ],
+            [
+              140.144287,
+              35.617402
+            ],
+            [
+              140.140612,
+              35.617402
+            ],
+            [
+              140.140612,
+              35.612685
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4f0a\u5de6\u5730\u753a\uff1a \u8fb2\u9053\u3092\u8ffd\u52a0\u3002(\u8fb2\u9053\u306e\u30ce\u30fc\u30c9...\u306a\u3093\u3061\u3083\u3063\u3066\u3002) #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96322489
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.654046,
+              34.731347
+            ],
+            [
+              137.685336,
+              34.731347
+            ],
+            [
+              137.685336,
+              34.748405
+            ],
+            [
+              137.654046,
+              34.748405
+            ],
+            [
+              137.654046,
+              34.731347
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u5143\u77e5\u8b58\u3068Bing\u306e\u822a\u7a7a\u5199\u771f\u306b\u57fa\u3065\u304d\u9053\u8def\u306b\u6a4b\u306e\u30bf\u30b0\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96330029
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.149759,
+              35.616651
+            ],
+            [
+              140.189578,
+              35.616651
+            ],
+            [
+              140.189578,
+              35.63595
+            ],
+            [
+              140.149759,
+              35.63595
+            ],
+            [
+              140.149759,
+              35.616651
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6a4b\u8ffd\u52a0\uff08\u7f8e\u5e4c\u753a\u7530\u4e2d\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 96349268
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.182569,
+              43.798442
+            ],
+            [
+              144.196602,
+              43.798442
+            ],
+            [
+              144.196602,
+              43.817947
+            ],
+            [
+              144.182569,
+              43.817947
+            ],
+            [
+              144.182569,
+              43.798442
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u6749\u6238\u753a\u5357\u5074\u7528\u6c34\u8def\u6cbf\u3044-\u6c34\u8def\u306elayer\u30bf\u30b0\u3092\u524a\u9664; \u9053\u8def\u306e\u4e00\u90e8\u3092\u6a4b\u3068\u3057\u3066\u30bf\u30b0\u4ed8\u3051 #MappingAdventureJapan",
+        "user": "k_zoar",
+        "changeset": 96363355
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.746643,
+              36.016075
+            ],
+            [
+              139.757018,
+              36.016075
+            ],
+            [
+              139.757018,
+              36.022804
+            ],
+            [
+              139.746643,
+              36.022804
+            ],
+            [
+              139.746643,
+              36.016075
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u9053\u8def\u30fb\u5efa\u7269\u30fb\u68ee\u6797\u30fb\u8fb2\u5730\u306e\u66f4\u65b0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 96380953
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.10586,
+              34.653866
+            ],
+            [
+              138.139236,
+              34.653866
+            ],
+            [
+              138.139236,
+              34.693477
+            ],
+            [
+              138.10586,
+              34.693477
+            ],
+            [
+              138.10586,
+              34.653866
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4f0a\u5de6\u5730\u753a\uff1a \u66f3\u821f\u6a4b\u3068\u4f0a\u5de6\u5730\u5074\u9053\u6a4b\u3092\u8ffd\u52a0\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96388966
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.635394,
+              34.730584
+            ],
+            [
+              137.673135,
+              34.730584
+            ],
+            [
+              137.673135,
+              34.747586
+            ],
+            [
+              137.635394,
+              34.747586
+            ],
+            [
+              137.635394,
+              34.730584
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u4f0a\u5de6\u5730\u753a\uff1a \u4f0a\u4f50\u898b\u6a4b\u3068\u4f0a\u5de6\u5730\u5c0f\u6a4b\u3068\u9577\u7530\u6a4b\u3092\u8ffd\u52a0\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96389792
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.670033,
+              34.745381
+            ],
+            [
+              137.673458,
+              34.745381
+            ],
+            [
+              137.673458,
+              34.751819
+            ],
+            [
+              137.670033,
+              34.751819
+            ],
+            [
+              137.670033,
+              34.745381
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u73fe\u5730\u8abf\u67fb\u306b\u57fa\u3065\u304d\u5bfa\u9662\u3092\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96389953
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              139.862888,
+              35.941333
+            ],
+            [
+              139.863189,
+              35.941333
+            ],
+            [
+              139.863189,
+              35.941548
+            ],
+            [
+              139.862888,
+              35.941548
+            ],
+            [
+              139.862888,
+              35.941333
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "fixed Highway intersecting large water piece :\u685c\u4e95\u5e02\u9053\u8def\u3068\u6c34\u8def\u306e\u8abf\u6574\u3002#MappingAdventureJapan",
+        "user": "taki3hira",
+        "changeset": 96393219
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.076204,
+              35.495786
+            ],
+            [
+              137.102722,
+              35.495786
+            ],
+            [
+              137.102722,
+              35.506534
+            ],
+            [
+              137.076204,
+              35.506534
+            ],
+            [
+              137.076204,
+              35.495786
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u8c4a\u5bcc\u795e\u793e\u8ffd\u52a0\uff08\u7f8e\u5e4c\u753a\u8c4a\u5bcc\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 96404582
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.176052,
+              43.753028
+            ],
+            [
+              144.176052,
+              43.753028
+            ],
+            [
+              144.176052,
+              43.753028
+            ],
+            [
+              144.176052,
+              43.753028
+            ],
+            [
+              144.176052,
+              43.753028
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5973\u6e80\u5225\u795e\u793e\u53ca\u3073\u5883\u5185\u5730\u8ffd\u52a0\u3001\u95a2\u4fc2\u5efa\u7269\u306e\u5206\u5272\uff08\u5927\u7a7a\u753a\u5973\u6e80\u5225\u516c\u5712\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 96420123
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.177586,
+              43.91664
+            ],
+            [
+              144.187049,
+              43.91664
+            ],
+            [
+              144.187049,
+              43.949428
+            ],
+            [
+              144.177586,
+              43.949428
+            ],
+            [
+              144.177586,
+              43.91664
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "POI\u306e\u8ffd\u52a0 #MappingAdventureJapan",
+        "user": "\u4e0b\u308a\u5c02\u9580",
+        "changeset": 96420693
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              138.35741,
+              34.938588
+            ],
+            [
+              138.359357,
+              34.938588
+            ],
+            [
+              138.359357,
+              34.942369
+            ],
+            [
+              138.35741,
+              34.942369
+            ],
+            [
+              138.35741,
+              34.938588
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u7db2\u8d70\u795e\u793e\u8ffd\u52a0\uff08\u7db2\u8d70\u5e02\u6842\u753a\uff09 #MappingAdventureJapan",
+        "user": "Hokkosha",
+        "changeset": 96421055
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              144.2701,
+              44.015627
+            ],
+            [
+              144.270883,
+              44.015627
+            ],
+            [
+              144.270883,
+              44.016436
+            ],
+            [
+              144.2701,
+              44.016436
+            ],
+            [
+              144.2701,
+              44.015627
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5927\u4eba\u898b\u753a\uff1a \u516b\u5e61\u5bae\u3092\u8ffd\u52a0\u3002 #MappingAdventureJapan",
+        "user": "Mappin'",
+        "changeset": 96421971
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              137.643374,
+              34.735202
+            ],
+            [
+              137.649601,
+              34.735202
+            ],
+            [
+              137.649601,
+              34.736898
+            ],
+            [
+              137.643374,
+              34.736898
+            ],
+            [
+              137.643374,
+              34.735202
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "comment": "\u5730\u5143\u77e5\u8b58\u3068Bing\u306e\u822a\u7a7a\u5199\u771f\u3092\u3082\u3068\u306b\u6b69\u9053\u3092\u7de8\u96c6 #MappingAdventureJapan",
+        "user": "Mat_Mineral",
+        "changeset": 96425159
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140.127565,
+              35.607256
+            ],
+            [
+              140.144982,
+              35.607256
+            ],
+            [
+              140.144982,
+              35.618532
+            ],
+            [
+              140.127565,
+              35.618532
+            ],
+            [
+              140.127565,
+              35.607256
+            ]
+          ]
+        ]
+      },
+      "type": "Feature"
+    }
+  ]
+}

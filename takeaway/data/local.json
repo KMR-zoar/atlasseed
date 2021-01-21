@@ -1,0 +1,95 @@
+{
+    "local": {
+        "SplashImage": "image/splash.png",
+        "DefaultCenter": [
+            35.9064,
+            139.6232
+        ],
+        "DefaultZoom": 15,
+        "IconViewZoom": 15,
+        "TextViewZoom": 17,
+        "attribution": "<a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap contributors</a>",
+        "style": "https://tile2.openstreetmap.jp/styles/osm-bright/style.json"
+    },
+    "menu": [
+        {
+            "glot-model": "id_edit_manual",
+            "linkto": "https://maripo.org/osm_beginners_guide/",
+            "divider": false
+        },
+        {
+            "glot-model": "mapcontrib_edit_manual",
+            "linkto": "https://drive.google.com/file/d/1Ijuyl2fAVEh8_jb_m0xSGGzVoHQtqn9W/view",
+            "divider": false
+        },
+        {
+            "glot-model": "mapcontrib_edit",
+            "linkto": "https://www.mapcontrib.xyz/t/1c17e9",
+            "divider": true
+        },
+        {
+            "glot-model": "openstreetmap",
+            "linkto": "https://www.openstreetmap.org/",
+            "divider": false
+        },
+        {
+            "glot-model": "owner",
+            "linkto": "https://github.com/K-Sakanoshita/takeaway",
+            "divider": false
+        }
+    ],
+    "target": {
+        "takeaway": {
+            "ovpass": [
+                "node[\"takeaway\"]",
+                "way[\"takeaway\"]",
+                "node[\"takeaway:covid19\"]",
+                "way[\"takeaway:covid19\"]"
+            ],
+            "list": true,
+            "zoom": 15,
+            "icon": "./image/bentou.svg"
+        },
+        "delivery": {
+            "ovpass": [
+                "node[\"delivery\"]",
+                "way[\"delivery\"]",
+                "node[\"delivery:covid19\"]",
+                "way[\"delivery:covid19\"]"
+            ],
+            "list": true,
+            "zoom": 15,
+            "icon": "./image/delivery.svg"
+        },
+        "takeaway_shop": {
+            "ovpass": [
+                "node[\"shop\"=\"bakery\"]",
+                "way[\"shop\"=\"bakery\"]",
+                "node[\"shop\"=\"deli\"]",
+                "way[\"shop\"=\"deli\"]",
+                "node[\"shop\"=\"alcohol\"]",
+                "way[\"shop\"=\"alcohol\"]"
+            ],
+            "list": true,
+            "zoom": 15,
+            "icon": "./image/bentou.svg"
+        },
+        "vending_machine": {
+            "ovpass": [
+                "node[\"amenity\"=\"vending_machine\"][\"vending\"=\"drinks\"]"
+            ],
+            "list": false,
+            "zoom": 17,
+            "icon": "./image/vending.svg"
+        },
+        "library": {
+            "ovpass": [
+                "node[\"amenity\"=\"library\"]",
+                "way[\"amenity\"=\"library\"]"
+            ],
+            "list": true,
+            "zoom": 15,
+            "icon": "./image/library.svg"
+        }
+    }
+}

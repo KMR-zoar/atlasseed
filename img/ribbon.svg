@@ -1,0 +1,8 @@
+<svg width="2000" height="69" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>ribbon</title>
+  <path fill="#f9f9f9" stroke-width="0" d="m0,0l1000,69l-1000,0l0,-69z" id="left" stroke="#f9f9f9"/>
+  <path fill="#f9f9f9" stroke-width="0" d="m2000,0l-1000,69l1000,0l0,-69z" id="left" stroke="#f9f9f9"/>
+ </g>
+</svg>
